@@ -36,7 +36,7 @@ const DELETE = async (url) => {
     }
 }
 
-module.exports = {
+export {
     GET,
     POST,
     DELETE
